@@ -1,0 +1,83 @@
+[
+    {
+        "lettre": "A a",
+        "exemples": "aman, awid",
+        "son": "a.mp3",
+        "image": "eau.jpg",
+        "francais": "a",
+        "arabe": ""
+    }, 
+    {
+        "lettre": "Ɛ ε",
+        "exemples": "yuεar, aεagun",
+        "son": "aa.mp3",
+        "image": "eau.jpg",
+        "francais": "-",
+        "arabe": "ع"
+    }, 
+    {
+        "lettre": "B b",
+        "exemples": "baba, lebni, abbibi",
+        "son": "b.mp3",
+        "image": "eau.jpg",
+        "francais": "v b",
+        "arabe": ""
+    },
+    {
+        "lettre": "C c",
+        "exemples": "accu, acuqar",
+        "son": "c.mp3",
+        "image": "eau.jpg",
+        "francais": "ch",
+        "arabe": ""
+    },
+    {
+        "lettre": "Č č",
+        "exemples": "yeččur, ačč",
+        "son": "cc.mp3",
+        "image": "eau.jpg",
+        "francais": "tch",
+        "arabe": ""
+    },
+    {
+        "lettre": "D d",
+        "exemples": "taddart, dagi",
+        "son": "d.mp3",
+        "image": "eau.jpg",
+        "francais": "d dh",
+        "arabe": ""
+    },
+    {
+        "lettre": "Ḍ ḍ",
+        "exemples": "aḍu",
+        "son": "dd.mp3",
+        "image": "eau.jpg",
+        "francais": "",
+        "arabe": "ض"
+    },
+    {
+        "lettre": "T t",
+        "exemples": "yetavaε, tafat",
+        "son": "t.mp3",
+        "image": "eau.jpg",
+        "francais": "t ...",
+        "arabe": "ت ث"
+    },
+    {
+        "lettre": "Ṭ ṭ",
+        "exemples": "iṭij",
+        "son": "tt.mp3",
+        "image": "eau.jpg",
+        "francais": "-",
+        "arabe": "ط"
+    },
+    {
+        "lettre": "Ţ ţ",
+        "exemples": "seţţi",
+        "son": "ttt.mp3",
+        "image": "eau.jpg",
+        "francais": "ts",
+        "arabe": "-"
+    }
+
+]
